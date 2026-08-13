@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-SEARCH_STRING="waypoint"
+SEARCH_STRING="physna"
 ORIG_VOL_SIZE="70"
-NEW_VOL_SIZE="200"
+NEW_VOL_SIZE="350"
 VOLUMES_LIST=()
 
 
